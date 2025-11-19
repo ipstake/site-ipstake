@@ -1,0 +1,9 @@
+{
+  "name": "ipstake-website",
+  "version": "1.0.0",
+  "description": "IP Stake public website",
+  "scripts": {
+    "build": "echo 'No build required'"
+  },
+  "private": true
+}

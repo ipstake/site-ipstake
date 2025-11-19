@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style>
+      text {
+        font-family: 'Poppins', sans-serif;
+        font-size: 72px;
+        font-weight: 700;
+        fill: currentColor;
+      }
+    </style>
+    <bx:export>
+      <bx:file format="svg" path="ip-stake-logo.svg" normalization="{&quot;removeBoxySVGMetadata&quot;:true,&quot;removeForeignMetadata&quot;:true,&quot;removeAnimations&quot;:true,&quot;resetTransformOrigins&quot;:true,&quot;convertTextsToPaths&quot;:true}"/>
+    </bx:export>
+  </defs>
+  <circle cx="49.267" cy="71.756" r="39" fill="#efb963" style="" transform="matrix(1.142865, 0, 0.000016, 1.092455, -6.30668, -28.390205)"/>
+  <text style="fill: rgb(255, 255, 255); fill-rule: evenodd; text-anchor: middle; white-space: pre; font-size: 72px;" x="50" y="74.916">IP</text>
+</svg>
